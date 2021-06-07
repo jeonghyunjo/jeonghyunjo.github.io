@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jeonghyun Jo"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "**Robotics Software Engineer** \n University of California, Berkeley '21"
+  location         : "Emeryville, CA"
+  email            : "jeonghyunjo@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
