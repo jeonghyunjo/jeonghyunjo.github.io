@@ -272,8 +272,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
+      sidebar:
+        nav: "docs"
       layout: single
       author_profile: true
       show_date: true
