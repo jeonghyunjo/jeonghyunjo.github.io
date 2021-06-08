@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Markdown format practice"
+title: "Simple_arm.cpp"
 ---
 
 ```cpp
